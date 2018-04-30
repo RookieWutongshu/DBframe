@@ -1,0 +1,3 @@
+####框架类名为DaoFrame.想用此框架需保证继承了BaseInterFaceClass,并写了DBProperty的注释，确保注释了两个参数PRIMARYKEY和TABLENAME。具体可参考
+ExampleJavaBean的编写格式
+####将配置文件名DBConfig.xml正确置于你工程src目录下，并在其中天邪你自己的数据库相关信息。具体格式请参考ExampleXml
