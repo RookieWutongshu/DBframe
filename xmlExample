@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <database>
     <config>
-        <DBName>user</DBName>
-        <user>wuweitong</user>
-        <password>123456</password>
+        <DBName>yourDataBaseName</DBName>
+        <user>yourUserName</user>
+        <password>yourPassword</password>
     </config>
 </database>
 书写格式要求，将<DBName><user><password>放在二级节点里。外面的节点命名无要求。
